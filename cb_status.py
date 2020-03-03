@@ -28,6 +28,7 @@ user = settings.USERNAME
 password = settings.PASSWORD
 
 aws = settings.AWS
+azure  = settings.AZURE
 bucket = Bucket('couchbase://{0}/{1}'.format(",".join(BOOTSTRAP_NODES),
                                              bucket_name),
                 username=user,
