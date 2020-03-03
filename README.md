@@ -40,7 +40,7 @@ documents:
    
    (note: If running the web-server on port 80, you must run this using `sudo`)
    
-7. Access the web page at `http://localhost:8888` 
+7. Access the web page at `http://localhost:8080` 
 (or whichever port you have chosen). The nodes visualiser can be accessed at
 `/nodes` and the latest orders can be found at `/query_vis.html`. Note that the
 node visualiser has been orchestrated specifically for the demo and may not 
