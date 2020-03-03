@@ -5,6 +5,7 @@ AWS_NODES = ["10.142.170.101", "10.142.170.102"]
 AZURE_NODES = [""]
 # Whether the current cluster is on AWS
 AWS = True
+AZURE = False
 # Username of the data user
 USERNAME = "Administrator"
 # Password of the data user
